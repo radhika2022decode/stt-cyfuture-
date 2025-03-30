@@ -19,3 +19,5 @@ The script transcribes the audio and gives output in the terminal as well as cre
 3. README.md  :  Project documentation.
 
 4. stt_whisper.ipynb  :  jupyter notebook for audio transcription.
+
+5. Recording 2025-03-30 212026.mp4  :  Working demo
