@@ -1,3 +1,4 @@
 This repo has following contents:
-speech-to-text jupyter file
-sample audios (mp3)
+
+1. speech-to-text jupyter file
+2. sample audios (mp3)
